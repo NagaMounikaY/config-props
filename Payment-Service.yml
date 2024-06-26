@@ -5,7 +5,7 @@ spring:
         url: http://localhost:1111/
   datasource:
     username: root
-    password: Maha@123
+    password: Maha123@
     url: jdbc:mysql://localhost:3306/project_database
 
   jpa:
